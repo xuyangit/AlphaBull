@@ -1,0 +1,381 @@
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-13 03:22:38", "content": "人民币连续4日上涨 分析称汇率或受热钱扰动"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-12 02:00:45", "content": "人民币汇率延续强势"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-12 01:07:23", "content": "人民币汇率或延续震荡格局"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-11 16:36:25", "content": "人民币即期汇率维持震荡上扬走势 收报6.1536"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-11 14:43:23", "content": "美元指数涨势暂缓 人民币汇率连日走升"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-11 07:03:20", "content": "人民币汇率料将稳中有升"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-11 02:56:24", "content": "人民币汇率创5个月新高"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-06 09:29:00", "content": "6日人民币汇率中间价：1美元对人民币6.1681元"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-01 07:01:46", "content": "人民币汇率 七日大涨0.6%"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-30 07:48:39", "content": "IMF：人民币汇率仍被低估5-10%"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-30 02:44:22", "content": "人民币汇率六连升首破6.18关口"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-29 01:06:05", "content": "两因素为人民币汇率撑腰"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-28 11:22:00", "content": "人民币汇率早盘升破6.19 继续大幅走高"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-24 01:47:46", "content": "专家：下半年人民币汇率贬值压力大"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-22 15:46:50", "content": "年中经济报道综述：人民币汇率双向波动将成常态"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-22 01:01:00", "content": "叶檀：人民币汇率国际化须跨三重挑战"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-21 18:39:00", "content": "人民币汇率中间价告别“六连跌”"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-20 23:08:04", "content": "专家:人民币贬值有助双向预期 贬太狠国企将亏损"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-17 02:15:38", "content": "人民币仍有贬值压力"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-11 22:27:28", "content": "机构报告称亚洲经济下半年将反弹 人民币将走高"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-11 02:57:53", "content": "对人民币汇率改革 美国不应罔顾事实"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-10 18:40:00", "content": "人民币大涨创三个月新高 分析称上涨空间有限"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-10 09:28:00", "content": "10日人民币汇率中间价：1美元对人民币6.1443元"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-09 07:50:46", "content": "中美对话将直面敏感问题 美或就人民币汇率施压"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-09 05:37:03", "content": "央行退出常态化干预 终结人民币汇率中间价4连跌"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-09 04:09:00", "content": "人民币汇率问题将成为中美交锋的焦点"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-08 08:09:00", "content": "中美战略经济对话将举行 涉及人民币汇率等议题"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-08 02:21:31", "content": "中美经济对话9日举行 人民币汇率再下探6.20关口"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-03 07:51:00", "content": "报告指出：人民币汇率已基本达均衡水平"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-03 02:00:37", "content": "人民币汇率或延续“夹板行情”"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-07-02 17:26:08", "content": "中行研究报告：人民币汇率已基本达到均衡水平"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-27 10:32:00", "content": "人民币即期汇率开报6.2260 需增强其汇率弹性"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-24 02:53:07", "content": "下半年人民币汇率稳中偏软是大概率事件"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-21 08:35:45", "content": "人民币汇率现“异常” 双边波动利于人民币国际化"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-19 01:57:04", "content": "人民币汇率盘中诡异波动的三种可能 或是乌龙指"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-18 08:49:06", "content": "央行研究局马骏：人民币汇率接近均衡水平"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-18 01:46:54", "content": "人民币汇率盘中现离奇波动"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-17 07:44:33", "content": "热钱流入大幅放缓 人民币汇率升值预期减弱"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-16 12:01:00", "content": "招商证券：欧元负利率“催涨”人民币汇率"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-11 11:07:00", "content": "央行年报：2013年人民币汇率继续小幅升值"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-11 09:38:59", "content": "人民币汇率波动 多家外资行存款利率再打优惠牌"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-11 08:36:06", "content": "人民币走强对中国稳增长弊大于利"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-11 07:46:00", "content": "5月出口数据超预期 人民币三天升值257点"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-11 07:45:00", "content": "评论:人民币汇率波动要有“底线”"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-11 02:26:16", "content": "人民币汇率波动要有“底线”"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-10 08:20:24", "content": "人民币汇率已具备双向波动条件"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-06 19:13:30", "content": "张方田：人民币并非单边贬值 振幅3%属正常"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-04 03:44:21", "content": "人民币汇率背后的储蓄变量:下行是一种内生存在"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-06-03 09:50:00", "content": "3日人民币汇率中间价:1美元对人民币6.1710元"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-31 06:02:00", "content": "近期人民币汇率连续阴跌 中长期走势仍被看好"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-30 09:39:00", "content": "30日人民币汇率中间价报6.1695 升值10个基点"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-29 19:20:00", "content": "人民币急贬后迎强劲反弹 中间价仍创9个月新低"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-29 02:00:40", "content": "外汇期货“瓜熟”待“蒂落”"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-28 12:17:58", "content": "人民币汇率早盘大幅走贬 跌153基点"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-27 08:55:31", "content": "渣打报告称看好人民币中期走势"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-27 02:00:38", "content": "人民币汇率呈现短期均衡"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-27 00:42:00", "content": "人民币汇率或持续贬值"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-26 08:08:06", "content": "人民币汇率年内贬值幅度超3% 波动进一步增强"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-21 16:50:21", "content": "南华仪器拟IPO 汇率波动降低公司产品出口竞争力"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-21 02:15:35", "content": "人民币即期汇价四连跌"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-15 10:28:36", "content": "国办：保持汇率基本稳定 帮助企业规避汇率风险"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-15 00:20:48", "content": "人民币汇率是否被低估：市场说了算"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-14 02:07:39", "content": "美财长访华继续施压人民币 称其贬值令美方担忧"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-14 00:27:00", "content": "鲁政委：如何改革出一个富有弹性的人民币汇率"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-13 18:57:19", "content": "朱光耀：有信心实现未来10年7%-8%增长率"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-13 16:42:38", "content": "人民币盘中涨跌互现 尾盘快速升值收报6.2291"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-13 13:02:41", "content": "人民币窄幅波动中小幅走弱 结购汇大体保持平衡"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-12 07:18:54", "content": "波幅扩大后人民币波动率仅0.19% 不足以抑制热钱"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-08 11:14:00", "content": "人民币汇率走低促外汇理财升温"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-08 07:28:34", "content": "人民币高开低收 客盘购汇令贬幅扩大"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-06 13:55:38", "content": "人民币汇价盘中大幅升值 节后连续反弹近三百点"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-05 19:34:32", "content": "离岸人民币看空情绪高涨 投行称人民币恐遭抛售"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-05 02:31:17", "content": "人民币汇率走向绕不开美元周期"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-05-03 17:30:48", "content": "人民币汇率持续走低 外汇理财产品逐渐升温"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-30 16:44:13", "content": "人民币收涨报6.2564 盘中曾一度突破6.26关口"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-30 10:17:01", "content": "人民币汇率创18个月新低 无明显干预迹象"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-30 09:18:00", "content": "30日人民币汇率中间价报6.1580 贬值24个基点"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-29 16:39:08", "content": "人民币汇价收报6.2580 再次刷新18个月新低"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-29 14:40:03", "content": "人民币汇率盘中跌至6.2560 刷新近18个月新低"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-29 02:39:54", "content": "人民币汇率贬值风险可控"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-28 03:28:36", "content": "人民币贬值是短期行情"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-27 10:48:21", "content": "人民币“跌跌不休” 外币理财品该不该买？"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-25 16:35:53", "content": "人民币汇率收于6.25关口上方 盘中创18个月新低"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-25 09:40:46", "content": "人民币关键点位大决战 6.25元关口成分水岭"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-25 07:26:11", "content": "人民币收于16个月新低 疑似油盘购汇推低汇率"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-25 07:04:22", "content": "人民币汇率今年以来贬值3.2%"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-25 05:48:54", "content": "人民币汇率再创新低本周三次与中间价背离"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-25 05:36:09", "content": "在61种货币中人民币汇率升幅居首"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-24 02:27:16", "content": "人民币汇率创16个月新低 今年最大贬幅已达3.17%"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-23 16:36:49", "content": "人民币收盘报6.2370 盘中曾刷新16个月低点"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-23 13:58:44", "content": "人民币汇率盘中报6.2460 刷新近16个月低点"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-23 10:05:51", "content": "人民币即期汇率盘中再次刷新近14个月新低"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-23 04:06:38", "content": "人民币汇率盘中创14个月新低"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-22 15:56:01", "content": "人民币汇率创今年新低 专家称仍未进入贬值通道"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-19 15:38:03", "content": "余永定：人民币汇率浮动要加大 央行应减少干预"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-18 09:12:00", "content": "美国财政部批评中国“压低人民币汇率”"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 23:30:49", "content": "孙立坚：人民币内升外贬是结构性问题"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 22:28:46", "content": "余永定：人民币国际化的实质是资本项目自由化"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 16:16:21", "content": "外交部：中国将推动人民币汇率机制改革"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 14:15:21", "content": "3月份人民币实际有效汇率环比降幅创近五年最大"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 10:13:00", "content": "人民币汇率再创新低 专家称不具备大幅下跌条件"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-14 01:38:32", "content": "人民币汇率市场化变革：走向双向波动"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-23 13:58:44", "content": "人民币汇率盘中报6.2460 刷新近16个月低点"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-23 10:05:51", "content": "人民币即期汇率盘中再次刷新近14个月新低"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-23 04:06:38", "content": "人民币汇率盘中创14个月新低"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-22 15:56:01", "content": "人民币汇率创今年新低 专家称仍未进入贬值通道"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-19 15:38:03", "content": "余永定：人民币汇率浮动要加大 央行应减少干预"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-18 09:12:00", "content": "美国财政部批评中国“压低人民币汇率”"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 23:30:49", "content": "孙立坚：人民币内升外贬是结构性问题"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 22:28:46", "content": "余永定：人民币国际化的实质是资本项目自由化"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 16:16:21", "content": "外交部：中国将推动人民币汇率机制改革"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 14:15:21", "content": "3月份人民币实际有效汇率环比降幅创近五年最大"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 10:13:00", "content": "人民币汇率再创新低 专家称不具备大幅下跌条件"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-14 01:38:32", "content": "人民币汇率市场化变革：走向双向波动"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-10-11 18:00:00", "content": "人民币汇率注定会下跌吗？"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-10-10 02:06:01", "content": "偏多力量主导中短期人民币汇率 强势基础仍稳固"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-09-28 09:03:00", "content": "人民币汇率将保持升势 升值压力较大"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-09-19 02:00:36", "content": "隔夜美元大涨 人民币汇率小跌"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-09-16 09:26:55", "content": "简容：人民币汇改的快慢之争"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-09-16 08:42:34", "content": "钮文新：人民币汇率越错越深"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-09-11 02:23:06", "content": "人民币即期汇率再破6.13 强势回归创半年新高"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-09-11 01:53:21", "content": "外贸增长强劲 人民币汇率两天升282个基点"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-09-10 09:32:08", "content": "人民币兑美元中间价报6.1425 创半年来新高"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-09-04 10:49:33", "content": "周四人民币对美元即期触及6.1340 为半年来新高"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-28 10:44:21", "content": "人民币与美元同涨将成常态"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-19 16:12:55", "content": "即期市场突破6.14 人民币汇率走势强劲"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-14 09:25:44", "content": "人民币波动加剧 投资可选汇率避险工具"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-13 10:01:53", "content": "人民币汇率连日走升"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-08-13 04:05:43", "content": "人民币汇率双向浮动将成新常态"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-23 13:58:44", "content": "人民币汇率盘中报6.2460 刷新近16个月低点"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-23 10:05:51", "content": "人民币即期汇率盘中再次刷新近14个月新低"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-23 04:06:38", "content": "人民币汇率盘中创14个月新低"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-22 15:56:01", "content": "人民币汇率创今年新低 专家称仍未进入贬值通道"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-19 15:38:03", "content": "余永定：人民币汇率浮动要加大 央行应减少干预"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-18 09:12:00", "content": "美国财政部批评中国“压低人民币汇率”"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 23:30:49", "content": "孙立坚：人民币内升外贬是结构性问题"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 22:28:46", "content": "余永定：人民币国际化的实质是资本项目自由化"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 16:16:21", "content": "外交部：中国将推动人民币汇率机制改革"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 14:15:21", "content": "3月份人民币实际有效汇率环比降幅创近五年最大"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-16 10:13:00", "content": "人民币汇率再创新低 专家称不具备大幅下跌条件"}
+{"type": "economynews", "subtype": "rmbnews", "time": "2014-04-14 01:38:32", "content": "人民币汇率市场化变革：走向双向波动"}
+{"subtype": "rmbnews", "content": "人民币微收升，分红购汇虽多但汇价仍易升难贬", "type": "economynews", "time": "2017-07-05 18:23"}
+{"subtype": "rmbnews", "content": "欧洲央行执委科尔：趋陡的长期曲线表明欧元区经济将稳步发展", "type": "economynews", "time": "2017-07-05 17:07"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元7月5日16:30收盘报6.7993，较上一交易日上涨6点", "type": "economynews", "time": "2017-07-05 16:40"}
+{"subtype": "rmbnews", "content": "中国商务部:1-5月服务进出口稳中向好", "type": "economynews", "time": "2017-07-05 10:29"}
+{"subtype": "rmbnews", "content": "周三美元兑人民币开盘报6.7995，上日收报6.8005", "type": "economynews", "time": "2017-07-05 09:36"}
+{"subtype": "rmbnews", "content": "7月5日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-07-05 09:16"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.7922 元", "type": "economynews", "time": "2017-07-05 09:15"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.7923元附近", "type": "economynews", "time": "2017-07-05 08:39"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元北京时间23:30收报6.8005，较上一交易日夜盘收盘跌15点；全天成交量205.55亿美元，较上一交易日缩水7.21亿美元", "type": "economynews", "time": "2017-07-04 23:50"}
+{"subtype": "rmbnews", "content": "俄罗斯直接投资基金(RDIF)：RDIF将与中投公司建立中俄投资合作基金，规模为100亿美元等值人民币", "type": "economynews", "time": "2017-07-04 19:55"}
+{"subtype": "rmbnews", "content": "中国央行：人民币汇率在弹性增强的同时，将更加有条件在合理均衡水平上保持基本稳定", "type": "economynews", "time": "2017-07-04 19:03"}
+{"subtype": "rmbnews", "content": "中国央行：要继续推进股指期权上市准备；要积极发挥“上海金”人民币黄金定价机制作用", "type": "economynews", "time": "2017-07-04 18:55"}
+{"subtype": "rmbnews", "content": "人民币续收跌逾百点，实需购汇旺盛但续贬料有限", "type": "economynews", "time": "2017-07-04 18:38"}
+{"subtype": "rmbnews", "content": "路透中国固定收益市场展望调查：所有受访机构预期中国一年期存款基准利率7月将维持不变", "type": "economynews", "time": "2017-07-04 17:04"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元7月4日16:30收盘报6.7999，较上一交易日下跌102点", "type": "economynews", "time": "2017-07-04 16:37"}
+{"subtype": "rmbnews", "content": "在岸人民币日内微跌0.02%，美元兑在岸人民币升破6.8关口至6.8007", "type": "economynews", "time": "2017-07-04 16:35"}
+{"subtype": "rmbnews", "content": "中国央行：会议强调实施稳健中性的货币政策", "type": "economynews", "time": "2017-07-04 16:33"}
+{"subtype": "rmbnews", "content": "美元兑人民币1个月隐含波动率上涨1.75个基点，报3.0750%", "type": "economynews", "time": "2017-07-04 16:31"}
+{"subtype": "rmbnews", "content": "中国外汇交易中心：8月1日起暂免人民币对部分直接交易货币交易手续；暂免人民币对新加坡元、卢布等直接交易货币对交易手续费，暂免期为三年", "type": "economynews", "time": "2017-07-04 16:17"}
+{"subtype": "rmbnews", "content": "香港金管局：欢迎提高香港的人民币合格境外机构投资者投资额度", "type": "economynews", "time": "2017-07-04 16:09"}
+{"subtype": "rmbnews", "content": "中国央行：香港人民币合格境外机构投资者(RQFII)额度扩大至5000亿元人民币；扩大香港RQFII投资额度有助于满足香港投资者配置需求", "type": "economynews", "time": "2017-07-04 16:01"}
+{"subtype": "rmbnews", "content": "德国商业银行：预计人民币兑美元在2017年底前达到7.1元水平", "type": "economynews", "time": "2017-07-04 11:18"}
+{"subtype": "rmbnews", "content": "周二美元兑人民币开盘报6.7981，上日收报6.7990", "type": "economynews", "time": "2017-07-04 09:31"}
+{"subtype": "rmbnews", "content": "人民币中间价调降达到两周最大", "type": "economynews", "time": "2017-07-04 09:18"}
+{"subtype": "rmbnews", "content": "7月4日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-07-04 09:17"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.7889元", "type": "economynews", "time": "2017-07-04 09:15"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.7894元附近", "type": "economynews", "time": "2017-07-04 08:42"}
+{"subtype": "rmbnews", "content": "在岸人民币(CNY)兑美元北京时间23:30收报6.7990元，较上周五夜盘收盘价跌174点；全天成交量212.76亿美元，较上周五缩水69.27亿美元", "type": "economynews", "time": "2017-07-03 23:43"}
+{"subtype": "rmbnews", "content": "实需购汇多人民币缩量收跌，“债券通”提振有限", "type": "economynews", "time": "2017-07-03 17:33"}
+{"subtype": "rmbnews", "content": "Stratton Street：债券通使国际投资者“更简单”地进入中国债券市场", "type": "economynews", "time": "2017-07-03 17:11"}
+{"subtype": "rmbnews", "content": "彭博：美元兑人民币1个月隐含波动率下跌32.75个基点，报3.0550%", "type": "economynews", "time": "2017-07-03 16:43"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元7月3日16:30收盘报6.7897，较上一交易日下跌100点", "type": "economynews", "time": "2017-07-03 16:35"}
+{"subtype": "rmbnews", "content": "沪港通北向交易单日额度余额截至下午3时为128.2亿元人民币", "type": "economynews", "time": "2017-07-03 15:00"}
+{"subtype": "rmbnews", "content": "穆迪：债券通有助于中国境内债券纳入全球指数", "type": "economynews", "time": "2017-07-03 14:46"}
+{"subtype": "rmbnews", "content": "市场人士：中国债券通北向通首日上午交易总成交笔数131笔，总成交额为67.8亿元人民币", "type": "economynews", "time": "2017-07-03 12:59"}
+{"subtype": "rmbnews", "content": "中国央行副行长潘功胜：海外发行人对中国人民币债券有很强的兴趣", "type": "economynews", "time": "2017-07-03 09:53"}
+{"subtype": "rmbnews", "content": "中国央行副行长潘功胜：中国债券市场开放还有很大空间；债券通满足了全球投资者购买人民币资产的需求", "type": "economynews", "time": "2017-07-03 09:48"}
+{"subtype": "rmbnews", "content": "周一美元兑人民币开盘报6.7760，上日收报6.7816", "type": "economynews", "time": "2017-07-03 09:33"}
+{"subtype": "rmbnews", "content": "中银香港：完成债券通下首笔国债交易、首笔公司债交易以及首笔即期人民币交易", "type": "economynews", "time": "2017-07-03 09:19"}
+{"subtype": "rmbnews", "content": "7月3日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-07-03 09:16"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.7772 元", "type": "economynews", "time": "2017-07-03 09:15"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.7761元附近", "type": "economynews", "time": "2017-07-03 08:47"}
+{"subtype": "rmbnews", "content": "中国外汇交易中心：6月30日CFETS人民币汇率指数为93.29，按周涨0.07", "type": "economynews", "time": "2017-07-03 08:30"}
+{"subtype": "rmbnews", "content": "央广：国家主席习近平在出席“庆祝香港回归祖国20周年大会暨香港特别行政区第五届政府就职典礼”时称，支持香港在推进“一带一路”建设、粤港澳大湾区建设、人民币国际化等重大发展战略中发挥优势和作用", "type": "economynews", "time": "2017-07-01 11:09"}
+{"subtype": "rmbnews", "content": "在岸人民币(CNY)兑美元北京时间23:30收报6.7816元，较昨日夜盘收盘价涨35点，上周五夜盘收报6.8380元；全天成交量282.03亿美元，较昨日扩大43.43亿美元", "type": "economynews", "time": "2017-06-30 23:41"}
+{"subtype": "rmbnews", "content": "国际货币基金组织：第一季度已分配外汇储备中美元所占份额小幅下降", "type": "economynews", "time": "2017-06-30 22:49"}
+{"subtype": "rmbnews", "content": "IMF：第一季度末美元在全球已分配外汇储备中的比重为64.52%；第一季度美元占全球货币储备的比重有所下降", "type": "economynews", "time": "2017-06-30 21:09"}
+{"subtype": "rmbnews", "content": "人民币午后转为收跌，购汇旺盛刺激汇价快速走贬", "type": "economynews", "time": "2017-06-30 17:56"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元6月30日16:30收盘报6.7796，较上一交易日下跌9点", "type": "economynews", "time": "2017-06-30 16:47"}
+{"subtype": "rmbnews", "content": "国家外汇管理局：3月末我国全口径外债余额为99201亿元人民币", "type": "economynews", "time": "2017-06-30 15:07"}
+{"subtype": "rmbnews", "content": "美元兑离岸人民币波动率升高，现汇持续下跌", "type": "economynews", "time": "2017-06-30 12:25"}
+{"subtype": "rmbnews", "content": "离岸人民币1周期Hibor跃升至三周高位", "type": "economynews", "time": "2017-06-30 11:51"}
+{"subtype": "rmbnews", "content": "离岸人民币和在岸人民币日内大涨近200点", "type": "economynews", "time": "2017-06-30 10:38"}
+{"subtype": "rmbnews", "content": "交易员：美元兑人民币开盘后面临全面卖盘", "type": "economynews", "time": "2017-06-30 09:48"}
+{"subtype": "rmbnews", "content": "在岸人民币和离岸人民币短线大涨近百点", "type": "economynews", "time": "2017-06-30 09:35"}
+{"subtype": "rmbnews", "content": "周五美元兑人民币开盘报6.7691，上日收报6.7851", "type": "economynews", "time": "2017-06-30 09:32"}
+{"subtype": "rmbnews", "content": "人民币兑美元中间价上调至6.7744元，为2016年11月7日来最强", "type": "economynews", "time": "2017-06-30 09:16"}
+{"subtype": "rmbnews", "content": "6月30日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-06-30 09:16"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.7744元", "type": "economynews", "time": "2017-06-30 09:15"}
+{"subtype": "rmbnews", "content": "中国央行公开市场本周将净回笼3300亿元人民币，创逾四个半月单周新高", "type": "economynews", "time": "2017-06-30 09:13"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.7739元附近", "type": "economynews", "time": "2017-06-30 08:40"}
+{"subtype": "rmbnews", "content": "在岸人民币(CNY)兑美元北京时间23:30收报6.7851元，较昨日夜盘收盘价涨146点；全天成交量238.60亿美元，较昨日扩大43.94亿美元", "type": "economynews", "time": "2017-06-29 23:45"}
+{"subtype": "rmbnews", "content": "人民币收涨创逾七个月新高，本周已累计上涨1400点", "type": "economynews", "time": "2017-06-29 17:54"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元6月29日16:30收盘报6.7787，较上一交易日上涨314点", "type": "economynews", "time": "2017-06-29 16:38"}
+{"subtype": "rmbnews", "content": "国家外管局前官员管涛：近期人民币还会是震荡的行情", "type": "economynews", "time": "2017-06-29 12:38"}
+{"subtype": "rmbnews", "content": "西京投资管理主席刘央：A、H股差价短期内将继续存在因人民币不能自由兑换", "type": "economynews", "time": "2017-06-29 11:52"}
+{"subtype": "rmbnews", "content": "光大控股陈爽：中国资产是配置非常重要的考量", "type": "economynews", "time": "2017-06-29 11:34"}
+{"subtype": "rmbnews", "content": "离岸人民币7天期Hibor上涨1.42%，为6月1日以来最大涨幅", "type": "economynews", "time": "2017-06-29 11:20"}
+{"subtype": "rmbnews", "content": "星石投资杨玲：中国有多种政策工具来稳定人民币", "type": "economynews", "time": "2017-06-29 10:37"}
+{"subtype": "rmbnews", "content": "摩根士丹利亚洲区主席Stephen Roach：新的人民币的现实是稳定", "type": "economynews", "time": "2017-06-29 10:22"}
+{"subtype": "rmbnews", "content": "周四美元兑人民币开盘报6.7966，上日收报6.7997", "type": "economynews", "time": "2017-06-29 09:31"}
+{"subtype": "rmbnews", "content": "6月29日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-06-29 09:17"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.7940元", "type": "economynews", "time": "2017-06-29 09:16"}
+{"subtype": "rmbnews", "content": "国家外管局：3月末银行业对外净负债同比降11%", "type": "economynews", "time": "2017-06-29 09:10"}
+{"subtype": "rmbnews", "content": "中国 5月 Swift人民币在全球支付中占比 1.61%, 预期值-%, 前值1.60%", "type": "economynews", "time": "2017-06-29 09:00"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.7915元附近", "type": "economynews", "time": "2017-06-29 08:43"}
+{"subtype": "rmbnews", "content": "在岸人民币(CNY)兑美元北京时间23:30收报6.7997元，较昨日夜盘收盘价涨148点；全天成交量194.66亿美元，较昨日缩水41.05亿美元", "type": "economynews", "time": "2017-06-28 23:44"}
+{"subtype": "rmbnews", "content": "离岸人民币短线走软，受欧元跳水拖累，美元兑离岸人民币上涨70点至6.8113", "type": "economynews", "time": "2017-06-28 20:24"}
+{"subtype": "rmbnews", "content": "深交所修改《退市整理期业务特别规定》", "type": "economynews", "time": "2017-06-28 19:55"}
+{"subtype": "rmbnews", "content": "人民币收升重回6.80关口，大行护驾市场谨慎情绪浓", "type": "economynews", "time": "2017-06-28 18:13"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元6月28日16:30收盘报6.7992，较上一交易日上涨109点", "type": "economynews", "time": "2017-06-28 16:41"}
+{"subtype": "rmbnews", "content": "美元兑人民币1个月隐含波动率上涨30.75个基点，报3.1825%", "type": "economynews", "time": "2017-06-28 16:31"}
+{"subtype": "rmbnews", "content": "离岸人民币7天期Hibor上涨1.06个百分点至2.98%", "type": "economynews", "time": "2017-06-28 11:24"}
+{"subtype": "rmbnews", "content": "中国银行国际金融研究所：下半年人民币汇率将相对稳定", "type": "economynews", "time": "2017-06-28 10:44"}
+{"subtype": "rmbnews", "content": "周三美元兑人民币开盘报6.8034，上日收报6.8145", "type": "economynews", "time": "2017-06-28 09:31"}
+{"subtype": "rmbnews", "content": "6月28日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-06-28 09:21"}
+{"subtype": "rmbnews", "content": "人民币兑美元中间价报6.8053元，上调0.35%，创近四周以来最大调升幅度", "type": "economynews", "time": "2017-06-28 09:16"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.8053元", "type": "economynews", "time": "2017-06-28 09:15"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.8015元附近", "type": "economynews", "time": "2017-06-28 08:45"}
+{"subtype": "rmbnews", "content": "离岸人民币持续走强逼近6.80关口，美元兑离岸人民币刷新近一周半低位至6.8032", "type": "economynews", "time": "2017-06-28 08:22"}
+{"subtype": "rmbnews", "content": "在岸人民币(CNY)兑美元北京时间23:30收报6.8145元，较昨日夜盘收盘价涨270点；全天成交量235.71亿美元，较昨日缩水14.43亿美元", "type": "economynews", "time": "2017-06-27 23:37"}
+{"subtype": "rmbnews", "content": "6.27汇市解析：德拉基拔升欧元近百点，美指遭补刀", "type": "economynews", "time": "2017-06-27 20:25"}
+{"subtype": "rmbnews", "content": "中国银监会：在港银行可以开展人民币结算、融资、现金管理业务；银监会鼓励香港的银行参与“一带一路”建设", "type": "economynews", "time": "2017-06-27 20:09"}
+{"subtype": "rmbnews", "content": "大行托举致人民币暴力收涨，两地市场均创一周新高", "type": "economynews", "time": "2017-06-27 17:49"}
+{"subtype": "rmbnews", "content": "银监会：中国银行业金融机构5月底境内总资产同比增长12.5%，为232.9万亿元人民币", "type": "economynews", "time": "2017-06-27 17:42"}
+{"subtype": "rmbnews", "content": "德拉基鹰歌+美数据惨淡，离岸人民币扶摇直上500点", "type": "economynews", "time": "2017-06-27 17:33"}
+{"subtype": "rmbnews", "content": "离岸人民币暴涨500点！听听交易员和策略师怎样解析：", "type": "economynews", "time": "2017-06-27 16:57"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元6月27日16:30收盘报6.8101，较上一交易日上涨276点", "type": "economynews", "time": "2017-06-27 16:37"}
+{"subtype": "rmbnews", "content": "美元兑人民币1个月隐含波动率上涨21.25个基点，报2.9025%", "type": "economynews", "time": "2017-06-27 16:31"}
+{"subtype": "rmbnews", "content": "受欧元飙升影响，美元兑离岸人民币跳水近200点，创逾一周新低6.8076，日内总跌幅近500点；美元兑在岸人民币亦短线跳水近200点至逾一周新低6.8100，日跌幅近300点", "type": "economynews", "time": "2017-06-27 16:30"}
+{"subtype": "rmbnews", "content": "机构报告：今年上半年A股发行稳步，“去库存” 借壳现象大减", "type": "economynews", "time": "2017-06-27 15:27"}
+{"subtype": "rmbnews", "content": "前中国央行顾问李稻葵：人民币贬值压力将保持温和", "type": "economynews", "time": "2017-06-27 14:54"}
+{"subtype": "rmbnews", "content": "交易员：美元兑离岸人民币下跌，受平仓驱动", "type": "economynews", "time": "2017-06-27 14:48"}
+{"subtype": "rmbnews", "content": "离岸人民币短线上破6.84关口，美元兑离岸人民币刷新日低至6.8379", "type": "economynews", "time": "2017-06-27 14:14"}
+{"subtype": "rmbnews", "content": "周二美元兑人民币开盘报6.8387，上日收报6.8415", "type": "economynews", "time": "2017-06-27 09:34"}
+{"subtype": "rmbnews", "content": "6月27日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-06-27 09:17"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.8292元", "type": "economynews", "time": "2017-06-27 09:15"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.8253元附近", "type": "economynews", "time": "2017-06-27 08:53"}
+{"subtype": "rmbnews", "content": "在岸人民币(CNY)兑美元北京时间23:30收报6.8415元，较上周五夜盘收盘价跌35点；全天成交量250.14亿美元，与上周五的252.97亿美元大体相当", "type": "economynews", "time": "2017-06-26 23:48"}
+{"subtype": "rmbnews", "content": "人民币微收升，盘中刷新月内低点在岸离岸价差走高", "type": "economynews", "time": "2017-06-26 18:11"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元6月26日16:30收盘报6.8378，较上一交易日上涨9点", "type": "economynews", "time": "2017-06-26 16:42"}
+{"subtype": "rmbnews", "content": "离岸人民币短线跌破6.85关口，美元兑离岸人民币刷新近一个月高位至6.8505", "type": "economynews", "time": "2017-06-26 14:04"}
+{"subtype": "rmbnews", "content": "隔夜离岸人民币Hibor降至2016年6月以来最低水平", "type": "economynews", "time": "2017-06-26 12:28"}
+{"subtype": "rmbnews", "content": "中国财政部：第一季度中央政府债务余额约11.997万亿元人民币", "type": "economynews", "time": "2017-06-26 11:03"}
+{"subtype": "rmbnews", "content": "高盛：人民币中间价逆周期因子可信度需实际性干预增强", "type": "economynews", "time": "2017-06-26 09:53"}
+{"subtype": "rmbnews", "content": "周一美元兑人民币开盘报6.8340，上日收报6.8380", "type": "economynews", "time": "2017-06-26 09:33"}
+{"subtype": "rmbnews", "content": "人民币兑美元中间价结束4连贬", "type": "economynews", "time": "2017-06-26 09:18"}
+{"subtype": "rmbnews", "content": "6月26日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-06-26 09:17"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6. 8220元", "type": "economynews", "time": "2017-06-26 09:15"}
+{"subtype": "rmbnews", "content": "中国外汇交易中心：6月23日CFETS人民币汇率指数为93.22，按周跌0.02", "type": "economynews", "time": "2017-06-26 08:30"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.8151元附近", "type": "economynews", "time": "2017-06-26 08:29"}
+{"subtype": "rmbnews", "content": "只要同时满足三个条件，6月26日起休眠账户将被中止交易", "type": "economynews", "time": "2017-06-26 07:36"}
+{"subtype": "rmbnews", "content": "在岸人民币(CNY)兑美元北京时间23:30收报6,8380元，大体持稳于昨日夜盘收盘价6.8368元附近，上周五夜盘收报6.8135元；全天成交量252.97亿美元，与昨日255.80亿美元大体相当", "type": "economynews", "time": "2017-06-23 23:37"}
+{"subtype": "rmbnews", "content": "人民币连七日收贬再刷月内新低，购汇高峰影响持续", "type": "economynews", "time": "2017-06-23 18:38"}
+{"subtype": "rmbnews", "content": "中国外汇交易中心：六家香港银行正申请人民币业务境外参加行资格", "type": "economynews", "time": "2017-06-23 17:37"}
+{"subtype": "rmbnews", "content": "香港交易所：7月10日起将开通人民币和美元黄金期货交易", "type": "economynews", "time": "2017-06-23 17:04"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元6月23日16:30收盘报6.8387，较上一交易日下跌80点", "type": "economynews", "time": "2017-06-23 16:38"}
+{"subtype": "rmbnews", "content": "美元兑人民币1个月隐含波动率下跌10.00个基点，报2.7000%", "type": "economynews", "time": "2017-06-23 16:30"}
+{"subtype": "rmbnews", "content": "周五美元兑人民币开盘报6.8351，上日收报6.8368", "type": "economynews", "time": "2017-06-23 09:33"}
+{"subtype": "rmbnews", "content": "6月23日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-06-23 09:17"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.8238元", "type": "economynews", "time": "2017-06-23 09:15"}
+{"subtype": "rmbnews", "content": "路透计算：中国央行公开市场本周将净回笼600亿元人民币", "type": "economynews", "time": "2017-06-23 09:12"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.8202元附近", "type": "economynews", "time": "2017-06-23 08:28"}
+{"subtype": "rmbnews", "content": "在岸人民币(CNY)兑美元北京时间23:30收报6.8368元，较昨日夜盘收盘价下跌69点；全天成交量255.80亿美元，较昨日增加8.62亿美元", "type": "economynews", "time": "2017-06-22 23:38"}
+{"subtype": "rmbnews", "content": "人民币窄幅整理连续六日收跌，短期汇价料继续震荡", "type": "economynews", "time": "2017-06-22 17:44"}
+{"subtype": "rmbnews", "content": "中国央行：券通“北向通”境外投资者未来将扩展到债券回购等交易；会很快发布实施“债券通”交易规则等实施细则", "type": "economynews", "time": "2017-06-22 17:16"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元6月22日16:30收盘报6.8307，较上一交易日下跌17点", "type": "economynews", "time": "2017-06-22 16:35"}
+{"subtype": "rmbnews", "content": "彭博：美元兑人民币1个月隐含波动率下跌41.50个基点，报2.8050%", "type": "economynews", "time": "2017-06-22 16:31"}
+{"subtype": "rmbnews", "content": "中国银监会官员：银行业1-5月利润9714亿元人民币", "type": "economynews", "time": "2017-06-22 15:13"}
+{"subtype": "rmbnews", "content": "周四美元兑人民币开盘报6.8306，上日收报6.8299", "type": "economynews", "time": "2017-06-22 09:34"}
+{"subtype": "rmbnews", "content": "6月22日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-06-22 09:17"}
+{"subtype": "rmbnews", "content": "中国央行今日净回笼800亿元人民币", "type": "economynews", "time": "2017-06-22 09:16"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.8197元", "type": "economynews", "time": "2017-06-22 09:16"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.8182元附近", "type": "economynews", "time": "2017-06-22 08:49"}
+{"subtype": "rmbnews", "content": "在岸人民币(CNY)兑美元北京时间23:30收报6.8299元，与昨日夜盘收盘价6.8295元大体持平；全天成交量247.18亿美元，与昨日夜盘收盘时的247.55亿美元大体相当", "type": "economynews", "time": "2017-06-21 23:42"}
+{"subtype": "rmbnews", "content": "购汇刺激人民币小幅收贬，A股加入MSCI影响有限", "type": "economynews", "time": "2017-06-21 18:10"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元6月21日16:30收盘报6.8290，较上一交易日下跌25点", "type": "economynews", "time": "2017-06-21 16:36"}
+{"subtype": "rmbnews", "content": "美元兑人民币1个月隐含波动率上涨0.25个基点，报3.2200%", "type": "economynews", "time": "2017-06-21 16:31"}
+{"subtype": "rmbnews", "content": "高盛：A股纳入MSCI指数提振短期市场情绪，对人民币影响甚微", "type": "economynews", "time": "2017-06-21 10:45"}
+{"subtype": "rmbnews", "content": "路透测算：中国金融机构收取的上半年法定准备金利息逾1600亿元人民币", "type": "economynews", "time": "2017-06-21 10:07"}
+{"subtype": "rmbnews", "content": "中债登监事长：可以考虑在上海自贸区建在岸人民币离岸债券市场", "type": "economynews", "time": "2017-06-21 09:52"}
+{"subtype": "rmbnews", "content": "周三美元兑人民币开盘报6.8304，上日收报6.8295", "type": "economynews", "time": "2017-06-21 09:33"}
+{"subtype": "rmbnews", "content": "港交所总裁李小加：MSCI纳入A股的重要意义与人民币纳入SDR相同", "type": "economynews", "time": "2017-06-21 09:19"}
+{"subtype": "rmbnews", "content": "6月21日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-06-21 09:18"}
+{"subtype": "rmbnews", "content": "中国央行公开市场今日净回笼400亿元人民币", "type": "economynews", "time": "2017-06-21 09:16"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.8193元", "type": "economynews", "time": "2017-06-21 09:15"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.8172元附近", "type": "economynews", "time": "2017-06-21 08:35"}
+{"subtype": "rmbnews", "content": "四次闯关终得胜果，明晟宣布将A股纳入新兴市场指数", "type": "economynews", "time": "2017-06-21 04:50"}
+{"subtype": "rmbnews", "content": "在岸人民币(CNY)兑美元北京时间23:30收报6.8295元，较昨日夜盘收报下跌80点；全天成交量247.55亿美元，较昨日夜盘收盘时缩水44.60亿美元", "type": "economynews", "time": "2017-06-20 23:40"}
+{"subtype": "rmbnews", "content": "人民币大跌创月内最低，收盘前大行出手缩减跌幅", "type": "economynews", "time": "2017-06-20 18:02"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元6月20日16:30收盘报6.8265，较上一交易日下跌95点", "type": "economynews", "time": "2017-06-20 16:37"}
+{"subtype": "rmbnews", "content": "离岸人民币隔夜Hibor跌至2016年10月以来最低", "type": "economynews", "time": "2017-06-20 11:23"}
+{"subtype": "rmbnews", "content": "周二美元兑人民币开盘报6.8214，上日收报6.8215", "type": "economynews", "time": "2017-06-20 09:31"}
+{"subtype": "rmbnews", "content": "中国央行行长周小川：上海有雄心到2020年基本建成与我国经济实力以及人民币国际地位相适应的国际金融中心，迈入全球金融中心前列；我相信陆家嘴论坛能够在其中发挥积极的作用", "type": "economynews", "time": "2017-06-20 09:25"}
+{"subtype": "rmbnews", "content": "人民币兑美元中间价调降0.18%至6.8096，降至近三周最弱", "type": "economynews", "time": "2017-06-20 09:17"}
+{"subtype": "rmbnews", "content": "6月20日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-06-20 09:17"}
+{"subtype": "rmbnews", "content": "中国央行公开市场今日资金投放量持平到期量", "type": "economynews", "time": "2017-06-20 09:16"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.8096元", "type": "economynews", "time": "2017-06-20 09:15"}
+{"subtype": "rmbnews", "content": "中国央行行长周小川：人民币跨境支付系统近期将落户上海", "type": "economynews", "time": "2017-06-20 09:13"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.8088元附近", "type": "economynews", "time": "2017-06-20 08:45"}
+{"subtype": "rmbnews", "content": "人民日报：美联储加息对中国的影响已透支并将减弱", "type": "economynews", "time": "2017-06-20 08:43"}
+{"subtype": "rmbnews", "content": "在MSCI决定公布前，投资者纷纷追捧中国A股基金", "type": "economynews", "time": "2017-06-20 07:28"}
+{"subtype": "rmbnews", "content": "人民币微收贬，受油盘购汇和离岸人民币走贬带动", "type": "economynews", "time": "2017-06-19 18:05"}
+{"subtype": "rmbnews", "content": "俄罗斯财长西卢安诺夫：发行以人民币计价的债券是多元化借贷的一种方式", "type": "economynews", "time": "2017-06-19 17:06"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元6月19日16:30收盘报6.8170，较上一交易日下跌30点", "type": "economynews", "time": "2017-06-19 16:36"}
+{"subtype": "rmbnews", "content": "离岸人民币跌幅扩大，美元兑离岸人民币刷新日高6.8233", "type": "economynews", "time": "2017-06-19 16:07"}
+{"subtype": "rmbnews", "content": "据路透：中国财政部称将于周二（20日）上午开展首次国债做市支持操作，方向为随买", "type": "economynews", "time": "2017-06-19 11:22"}
+{"subtype": "rmbnews", "content": "周一美元兑人民币开盘报6.8092，上日收报6.8135", "type": "economynews", "time": "2017-06-19 09:31"}
+{"subtype": "rmbnews", "content": "6月19日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-06-19 09:16"}
+{"subtype": "rmbnews", "content": "中国央行今日净投放1100亿元人民币", "type": "economynews", "time": "2017-06-19 09:15"}
+{"subtype": "rmbnews", "content": "人民币小幅震荡微收升，市场静待美国就业数据", "type": "economynews", "time": "2017-07-07 17:44"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元7月7日16:30收盘报6.7995，较上一交易日上涨41点", "type": "economynews", "time": "2017-07-07 16:37"}
+{"subtype": "rmbnews", "content": "路透调查：亚洲主要货币兑美元预计在年底都会下跌", "type": "economynews", "time": "2017-07-07 13:32"}
+{"subtype": "rmbnews", "content": "离岸人民币隔夜Hibor跳涨72个基点，涨至2.18517%，创月内最大涨幅", "type": "economynews", "time": "2017-07-07 11:51"}
+{"subtype": "rmbnews", "content": "周五美元兑人民币开盘报6.7970，上日收报6.8035", "type": "economynews", "time": "2017-07-07 09:35"}
+{"subtype": "rmbnews", "content": "7月7日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-07-07 09:18"}
+{"subtype": "rmbnews", "content": "人民币兑美元中间价结束4连贬", "type": "economynews", "time": "2017-07-07 09:16"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.7914元", "type": "economynews", "time": "2017-07-07 09:15"}
+{"subtype": "rmbnews", "content": "本周中国央行公开市场净回笼2500亿元人民币", "type": "economynews", "time": "2017-07-07 09:11"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.7933元附近", "type": "economynews", "time": "2017-07-07 08:18"}
+{"subtype": "rmbnews", "content": "人民币继续小幅收跌，短期走势面临更多不确定性", "type": "economynews", "time": "2017-07-06 18:04"}
+{"subtype": "rmbnews", "content": "中国央行：进一步完善人民币汇率市场化形成机制", "type": "economynews", "time": "2017-07-06 17:53"}
+{"subtype": "rmbnews", "content": "在岸人民币兑美元7月6日16:30收盘报6.8037，较上一交易日下跌44点", "type": "economynews", "time": "2017-07-06 16:37"}
+{"subtype": "rmbnews", "content": "美元兑人民币1个月隐含波动率下跌8.50个基点，报2.9175%", "type": "economynews", "time": "2017-07-06 16:31"}
+{"subtype": "rmbnews", "content": "富国银行：看涨人民币，料18个月后升至6.70", "type": "economynews", "time": "2017-07-06 09:38"}
+{"subtype": "rmbnews", "content": "周四美元兑人民币开盘报6.7985，上日收报6.8032", "type": "economynews", "time": "2017-07-06 09:35"}
+{"subtype": "rmbnews", "content": "7月6日银行间外汇市场人民币汇率中间价", "type": "economynews", "time": "2017-07-06 09:17"}
+{"subtype": "rmbnews", "content": "美元兑人民币中间价报6.7953元", "type": "economynews", "time": "2017-07-06 09:16"}
+{"subtype": "rmbnews", "content": "路透测算：人民币兑美元中间价今日料开在6.7972元附近", "type": "economynews", "time": "2017-07-06 08:38"}
+{"subtype": "rmbnews", "content": "在岸人民币(CNY)兑美元北京时间23:30收报6.8032元，较上一交易日夜盘收盘跌27点；全天成交量224.28亿美元，较上一交易日缩水18.73亿美元", "type": "economynews", "time": "2017-07-05 23:41"}
+{"time": "2017-06-07 18:07", "subtype": "rmbnews", "content": "人民币兑美元连三日收升，外储续增有利于汇价稳固", "type": "economynews"}
+{"time": "2017-06-07 16:36", "subtype": "rmbnews", "content": "中国5月外储再次站稳3万亿美元，三年来首次四连涨", "type": "economynews"}
+{"time": "2017-04-07 16:36", "subtype": "rmbnews", "content": "趋稳进行时！中国3月外汇储备连续两个月攀升", "type": "economynews"}
+{"time": "2017-03-07 16:44", "subtype": "rmbnews", "content": "中国2月外汇储备重回3万亿美元，终结8个月连跌之势", "type": "economynews"}
+{"time": "2017-02-07 16:17", "subtype": "rmbnews", "content": "中国1月外汇储备跌破3万亿美元，连降7个月创近6年新低", "type": "economynews"}
+{"time": "2017-01-09 09:07", "subtype": "rmbnews", "content": "本周重磅事件及指标影响力分析（1月9日-13日）", "type": "economynews"}
+{"time": "2016-12-07 16:36", "subtype": "rmbnews", "content": "中国外汇储备创1月来最大单月降幅，四大因素成幕后推手", "type": "economynews"}
+{"time": "2016-11-07 18:05", "subtype": "rmbnews", "content": "人民币加速贬值央行干预救市，中国10月外储创逾5年新低", "type": "economynews"}
+{"time": "2016-09-06 13:37", "subtype": "rmbnews", "content": "调查显示：中国8月外汇储备可能录得连续第二个月下降", "type": "economynews"}
+{"time": "2016-08-14 14:48", "subtype": "rmbnews", "content": "中国7月外汇占款连续第9个月下滑，但外部流动性改善", "type": "economynews"}
+{"time": "2016-08-07 10:53", "subtype": "rmbnews", "content": "莫惊慌！中国7月外储下降41.5亿美元，基本符合预期", "type": "economynews"}
+{"time": "2016-07-07 16:20", "subtype": "rmbnews", "content": "中国6月外汇储备意外增加134亿 涨幅创2015年4月来最佳", "type": "economynews"}
+{"time": "2016-07-06 15:32", "subtype": "rmbnews", "content": "6月中国外汇储备料连续第二个月下降", "type": "economynews"}
+{"time": "2016-06-07 16:59", "subtype": "rmbnews", "content": "中国外储创53个月新低终结两连涨，资本外流可控勿惊慌", "type": "economynews"}
+{"time": "2016-05-07 11:33", "subtype": "rmbnews", "content": "中国4月外汇储备环比上升近71亿 资本外流情况好转", "type": "economynews"}
+{"time": "2016-04-07 21:35", "subtype": "rmbnews", "content": "机构：中国资本外流现平稳迹象，因人民币贬值气氛消退", "type": "economynews"}
+{"time": "2016-04-07 18:34", "subtype": "rmbnews", "content": "中国3月外汇储备终结四连跌，但未来仍有一定下降压力", "type": "economynews"}
+{"time": "2016-04-07 17:52", "subtype": "rmbnews", "content": "德商：估值因素助中国外储增长，央行仍干预远期市场", "type": "economynews"}
+{"time": "2016-03-07 22:29", "subtype": "rmbnews", "content": "外储降幅缩窄人民币维稳初捷，警惕欧银雷声大雨点小", "type": "economynews"}
+{"time": "2016-02-08 08:19", "subtype": "rmbnews", "content": "中国1月外汇储备减少995亿美元至3.23万亿，降幅低于预期", "type": "economynews"}
+{"time": "2016-02-05 16:40", "subtype": "rmbnews", "content": "中国外储1月份料再减1000亿美元，预计还会进一步下降", "type": "economynews"}
+{"time": "2016-01-21 04:34", "subtype": "rmbnews", "content": "今年中国外汇储备或进一步缩水三千亿美元", "type": "economynews"}
+{"time": "2016-01-08 04:58", "subtype": "rmbnews", "content": "中国外汇储备1992年首降，2015年减少5127亿美元", "type": "economynews"}
+{"time": "2015-12-13 17:09", "subtype": "rmbnews", "content": "美国加息预期美元反弹，外储下降致人民币承压", "type": "economynews"}
+{"time": "2015-12-08 11:02", "subtype": "rmbnews", "content": "中国11月人民币计价进口降幅大幅收窄，出口降幅扩大", "type": "economynews"}
+{"time": "2015-12-08 10:12", "subtype": "rmbnews", "content": "中国央行：中国11月末黄金储备5605万盎司，连续五个月增长", "type": "economynews"}
+{"time": "2015-12-07 22:03", "subtype": "rmbnews", "content": "机构：中国资本外流加剧，但料其不会允许人民币过度贬值", "type": "economynews"}
+{"time": "2015-11-18 11:05", "subtype": "rmbnews", "content": "中国外管局：10月银行结售汇逆差1279亿元人民币", "type": "economynews"}
+{"time": "2015-11-11 09:10", "subtype": "rmbnews", "content": "中国10月份外汇储备意外增长，片面解读或只是管中窥豹", "type": "economynews"}
+{"time": "2015-10-30 13:37", "subtype": "rmbnews", "content": "中国9月服务贸易逆差227亿美元，1-9月逆差1582亿美元", "type": "economynews"}
+{"time": "2015-10-29 12:34", "subtype": "rmbnews", "content": "央行官员：中国货币政策不包括QE，经济溢出效应被夸大", "type": "economynews"}
+{"time": "2015-10-22 10:39", "subtype": "rmbnews", "content": "外管局：中国9月结售汇逆差明显收窄，有信心保持收支稳定", "type": "economynews"}
+{"time": "2015-10-16 12:48", "subtype": "rmbnews", "content": "9月央行外汇占款降幅略收窄，未来数月料延续小幅负增长", "type": "economynews"}
+{"time": "2015-10-07 16:45", "subtype": "rmbnews", "content": "离岸人民币节日结束前走高，现货人民币周四有望高开", "type": "economynews"}
+{"time": "2015-10-07 11:32", "subtype": "rmbnews", "content": "中国9月外汇储备减少433亿美元，基本符合预期", "type": "economynews"}
+{"time": "2015-09-29 15:36", "subtype": "rmbnews", "content": "德国商业银行：中国大量抛售外汇储备或引发连锁反应", "type": "economynews"}
+{"time": "2015-09-22 12:52", "subtype": "rmbnews", "content": "习近平：中国外汇储备增减均属正常，反腐不会损害经济", "type": "economynews"}
+{"time": "2015-09-09 15:10", "subtype": "rmbnews", "content": "野村：中国外汇储备减少或长期化，人民币有下行压力", "type": "economynews"}
+{"time": "2015-09-08 20:22", "subtype": "rmbnews", "content": "中国央行：外汇储备的变动是多重因素综合作用结果", "type": "economynews"}
+{"time": "2015-09-08 14:17", "subtype": "rmbnews", "content": "中国8月外汇储备降幅创历史新高，各界对此众说纷纭", "type": "economynews"}
