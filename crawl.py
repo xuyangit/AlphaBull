@@ -252,6 +252,28 @@ def getIndustryNews():
                 }
                 json.dump(data, f, ensure_ascii=False, sort_keys=False)
                 f.write("\n")
+def getCompanyNews1():
+    #crawl company news from http://stock.jrj.com.cn/share/news/company/2017-06-20.js?_=1499349216170
+    urlHolder = "http://stock.jrj.com.cn/share/news/company/{}.js?_=1499349216170"
+    startDate = datetime.date(2015, 10, 1)
+    with open("companynews1.txt", mode="a", encoding="utf-8") as f:
+        for day in (startDate + datetime.timedelta(n) for n in range(647)):
+            tmpUrl = urlHolder.format(day.strftime("%Y-%m-%d"))
+            try:
+                newsList = json.loads(str(getHtml(tmpUrl), encoding="utf-8")[15:-5])["newsinfo"]
+                for news in newsList:
+                    newsDate = news[0]["makedate"][:-3]
+                    content = news[0]["title"]
+                    data = {
+                        'time': newsDate,
+                        'content': content,
+                        'type': 'companynews',
+                        'subtype': 'companynews'
+                    }
+                    json.dump(data, f, ensure_ascii=False, sort_keys=False)
+                    f.write("\n")
+            except Exception:
+                continue
 def getCompanyNews():
     #crawl company news from http://www.southmoney.com, we can get all by filling blank in rootUrl
     rootUrl = "http://www.southmoney.com"
@@ -284,4 +306,4 @@ def getCompanyNews():
                 except Exception:
                     continue
 if __name__=="__main__":
-    getPpiNews()
+    getCompanyNews1()
