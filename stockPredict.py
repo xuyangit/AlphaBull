@@ -1,13 +1,10 @@
-import tensorflow as tf
-import numpy as np
-import random
-from collections import deque
 import datetime
 import json
 import csv
 from snownlp import SnowNLP
 import numpy as np
-
+from rnn import RNN
+from sklearn.metrics import mean_squared_error
 newsType = 5
 files = ["marketnews.txt", "companynews.txt", "cpinews.txt", "estatenews.txt", "gdpnews.txt", "industrynews.txt",
          "ppinews.txt", "rmbnews.txt"]
@@ -45,16 +42,35 @@ def readTraindata():
         lines = f.readlines()
         for i in range(731):
             line = lines[i][1:-2]
-            print(line)
-            data = [float(x) for x in line.strsplit(" ")]
-            print(data)
-collectFiles()
-#collectFiles()
-#for row in trainData:
-#    print(row)
-# with open("000001.csv") as csvfile:
-#     reader = csv.DictReader(csvfile)
-#     for line in reader:
-#         print(line["涨跌额"])
-
-
+            data = [float(x) for x in line.split(" ")]
+            trainData[i] = data
+dayLen = 3
+allDataX = []
+allDataY = []
+readTraindata()
+with open("000001.csv", encoding="gbk") as csvfile:
+    reader = csv.DictReader(csvfile)
+    for line in reader:
+        day = datetime.datetime.strptime(line["日期"], "%Y/%m/%d").date()
+        timeDelta = (day - startDate).days
+        if(timeDelta >= dayLen and timeDelta < 731):
+            #allDataX.append(np.array([trainData[timeDelta - i] for i in range(dayLen)]).flatten())
+            allDataX.append(trainData[timeDelta - 1])
+            allDataY.append(float(line["涨跌额"]))
+allDataX = np.array(allDataX)
+allDataX = np.reshape(allDataX, (allDataX.shape[0], 1, allDataX.shape[1]))
+#np.reshape(allDataX, ())
+trainDataX = allDataX[:-80]
+trainDataY = allDataY[:-80]
+testDataX = allDataX[-80:]
+testDataY = allDataY[-80:]
+rnn = RNN([4, 10, 10, 1])
+rnn.fit(trainDataX, trainDataY, epochs=10000)
+p = rnn.predict(testDataX)
+count = 0
+for i in range(len(p)):
+    print(testDataY[i], p[i])
+    if(testDataY[i] * p[i] > 0):
+        count += 1
+print(count, len(p), "correct rate: ", count / len(p))
+print(mean_squared_error(testDataY, p))
